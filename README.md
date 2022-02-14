@@ -1,3 +1,3 @@
 # Projeto_maratona_discover_NLW
 
-Project realized at the RockeatSeat (NLW) Discover Marathon.
+WEB project developed for the Discover RockeatSeat (NLW) marathon. Using HTML, CSS and JavaScript.
